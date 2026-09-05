@@ -10,10 +10,10 @@ VMAP combines trust-based detection at both the local (per-vehicle) and central 
 - [] Central trust authority over the real 802.11p wireless channel
 - [] Local-vs-central decision-making toggle, switchable per scenario
 - [] Generation/decision timestamps for latency and decision-time analysis
-- [ ] New Trained ML-based detection at the central authority
-- [ ] New plausibility checks
-- [ ] Resource-monitoring instrumentation (local and central)
-- [ ] Randomness (On-off Behaviour) added to attacks for simulating an Intelligent attacker
+- [] New ML-based detection at the central authority
+- [] New plausibility checks
+- [] Resource-monitoring instrumentation (local and central)
+- [] Randomness (On-off Behaviour) added to attacks for simulating an Intelligent attacker
 
 
 Code will be published soon.
